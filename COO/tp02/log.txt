@@ -1,0 +1,4 @@
+SILENT : un message SILENT
+INFO : un message INFO
+WARNING : un message WARNING
+ERROR : un message ERROR

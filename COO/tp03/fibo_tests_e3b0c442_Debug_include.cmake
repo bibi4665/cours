@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/yhamel/DEV/M1/COO/tp03/fibo_tests_e3b0c442_Debug_tests.cmake")
+  include("C:/Users/yhamel/DEV/M1/COO/tp03/fibo_tests_e3b0c442_Debug_tests.cmake")
+else()
+  add_test(fibo_tests_NOT_BUILT fibo_tests_NOT_BUILT)
+endif()
